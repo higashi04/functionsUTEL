@@ -1,0 +1,16 @@
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\metodosUTEL.exe
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\metodosUTEL.deps.json
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\metodosUTEL.runtimeconfig.json
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\metodosUTEL.runtimeconfig.dev.json
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\metodosUTEL.dll
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\ref\metodosUTEL.dll
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\bin\Debug\net5.0\metodosUTEL.pdb
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.csproj.AssemblyReference.cache
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.AssemblyInfoInputs.cache
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.AssemblyInfo.cs
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.csproj.CoreCompileInputs.cache
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.dll
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\ref\metodosUTEL.dll
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.pdb
+C:\Users\higas\Desktop\dosostenido\metodosUTEL\obj\Debug\net5.0\metodosUTEL.genruntimeconfig.cache
